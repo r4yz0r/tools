@@ -1,2 +1,4 @@
 # tools
-Convert binary to wireshark hexdump format
+
+bin2hex:
+Convert binary to wireshark hexdump format. Can be used to import the dump into wireshark afterwards.
